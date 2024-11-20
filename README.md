@@ -1,5 +1,8 @@
-# Unciv-mod-example
+## Unciv mod that makes the building requirements for certain wonders less stringent.
 
-An example mod for Unciv, that adds one new Civilization.
+Can also result in buffs to the wonders.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+#Change-log:
+
+  - Petra: No longer requires being built in the desert, bonuses affects all tiles in city.
+  - Machu Pichu: No longer requires Mountain owned by city within 2 tiles.
